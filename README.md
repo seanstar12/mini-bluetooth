@@ -14,3 +14,4 @@ Using a Teensy 3.6, Melexis TH3122, RN52 Bluetooth Module, 128x64 OLED display
   * http://web.comhem.se/mulle2/IBUSInsideDRAFTREV5.pdf
   * https://forum.arduino.cc/index.php?topic=234125.0
   * https://www.northamericanmotoring.com/forums/electrical/155161-getting-more-out-of-the-r53-mfsw.html
+  * http://manytools.org/hacker-tools/image-to-byte-array/
