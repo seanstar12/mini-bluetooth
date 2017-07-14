@@ -17,3 +17,4 @@ Using a Teensy 3.6, Melexis TH3122, RN52 Bluetooth Module, 128x64 OLED display
   * http://manytools.org/hacker-tools/image-to-byte-array/
   * http://www.binaryhexconverter.com/binary-to-hex-converter 0001 0110 1111 0110
   * http://www.binaryhexconverter.com/hex-to-binary-converter
+  * http://web.comhem.se/bengt-olof.swing/IBus.htm
